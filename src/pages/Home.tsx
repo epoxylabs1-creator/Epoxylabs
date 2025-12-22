@@ -12,6 +12,7 @@ import metallicFloor from '@/assets/metallic-floor.jpg';
 import flakeFloor from '@/assets/flake-floor.jpg';
 import commercialFloor from '@/assets/commercial-floor.jpg';
 import afterImage from '@/assets/after-1.jpg';
+import obsidianSwirl from '@/assets/obsidian-swirl.jpg'; // <-- added import
 
 
 const benefits = [
@@ -32,7 +33,7 @@ const services = [
     title: 'Metallic Epoxy',
     subtitle: 'Showroom Series',
     description: 'Stunning depth and reflection. Hand-manipulated swirls create a one-of-a-kind floor.',
-    image: metallicFloor,
+    image: metallicShowroomAfter,
     href: '/catalog?category=metallic',
   },
   {
@@ -259,7 +260,7 @@ export default function Home() {
           <div className="max-w-5xl mx-auto">
             <BeforeAfterSlider
               beforeImage={beforeImage}
-              afterImage={metallicShowroomAfter}
+              afterImage={obsidianSwirl}
               beforeLabel="Before"
               afterLabel="Metallic Epoxy"
               caption="Metallic Epoxy Finish — custom depth, gloss, and a true showroom look."
