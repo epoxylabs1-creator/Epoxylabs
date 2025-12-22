@@ -10,6 +10,7 @@ import flakeFloor from '@/assets/flake-floor.jpg';
 import commercialFloor from '@/assets/commercial-floor.jpg';
 import obsidianSwirl from '@/assets/obsidian-swirl.jpg'; 
 import afterImage from '@/assets/after-1.jpg';
+import greyepoxywflakes from '@/assets/greyepoxywflakes.jpg';
 
 
 const categories = [
@@ -65,7 +66,7 @@ const catalogItems = [
     id: 5,
     name: 'Titanium Blend',
     category: 'flake',
-    images: [flakeFloor],
+    images: [greyepoxywflakes],
     glossLevel: 'High Gloss',
     texture: 'Standard',
     bestFor: ['Performance Garages', 'Home Gyms'],
