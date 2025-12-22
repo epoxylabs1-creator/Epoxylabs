@@ -69,7 +69,7 @@ export default function About() {
             </div>
             <div>
               <img
-                src={metallicFloor}
+                src={obsidianSwirl}
                 alt="EpoxyLabs metallic floor installation"
                 className="rounded-xl shadow-xl"
               />
@@ -107,7 +107,7 @@ export default function About() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src={obsidianSwirl}
+                src={metallicFloor}
                 alt="EpoxyLabs quality work"
                 className="rounded-xl shadow-xl"
               />
