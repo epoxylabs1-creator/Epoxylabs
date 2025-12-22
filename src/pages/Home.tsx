@@ -259,7 +259,7 @@ export default function Home() {
           <div className="max-w-5xl mx-auto">
             <BeforeAfterSlider
               beforeImage={beforeImage}
-              afterImage={afterImage}
+              afterImage={metallicShowroomAfter}
               beforeLabel="Before"
               afterLabel="Metallic Epoxy"
               caption="Metallic Epoxy Finish — custom depth, gloss, and a true showroom look."
