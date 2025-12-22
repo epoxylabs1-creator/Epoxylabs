@@ -88,9 +88,9 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="mailto:info@epoxylabs.com" className="flex items-center gap-3 text-background/70 hover:text-primary transition-colors text-sm">
+                <a href="mailto:TheEpoxyLabs@outlook.com" className="flex items-center gap-3 text-background/70 hover:text-primary transition-colors text-sm">
                   <Mail className="w-4 h-4" />
-                  info@epoxylabs.com
+                  TheEpoxyLabs@outlook.com
                 </a>
               </li>
               <li className="flex items-start gap-3 text-background/70 text-sm">
