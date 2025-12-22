@@ -9,6 +9,8 @@ import metallicShowroom from '@/assets/metallic-showroom-after.jpg';
 import flakeFloor from '@/assets/flake-floor.jpg';
 import commercialFloor from '@/assets/commercial-floor.jpg';
 import obsidianSwirl from '@/assets/obsidian-swirl.jpg'; 
+import afterImage from '@/assets/after-1.jpg';
+
 
 const categories = [
   { id: 'all', name: 'All Finishes', icon: Sparkles },
@@ -71,9 +73,9 @@ const catalogItems = [
   },
   {
     id: 6,
-    name: 'Pure Charcoal',
+    name: 'Pure White',
     category: 'solid',
-    images: [commercialFloor],
+    images: [afterImage],
     glossLevel: 'High Gloss',
     texture: 'Standard',
     bestFor: ['Minimalists', 'Modern Builds'],
