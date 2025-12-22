@@ -8,6 +8,7 @@ import metallicFloor from '@/assets/metallic-floor.jpg';
 import metallicShowroom from '@/assets/metallic-showroom-after.jpg';
 import flakeFloor from '@/assets/flake-floor.jpg';
 import commercialFloor from '@/assets/commercial-floor.jpg';
+import obsidianSwirl from '@/assets/obsidian-swirl.jpg'; 
 
 const categories = [
   { id: 'all', name: 'All Finishes', icon: Sparkles },
@@ -42,7 +43,7 @@ const catalogItems = [
     id: 3,
     name: 'Obsidian Swirl',
     category: 'metallic',
-    images: [metallicShowroom, metallicFloor],
+    images: [obsidianSwirl, obsidianSwirl],
     glossLevel: 'High Gloss',
     texture: 'Anti-slip Available',
     bestFor: ['Exotic Cars', 'Detail Bays'],
