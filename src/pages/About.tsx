@@ -64,7 +64,7 @@ export default function About() {
                 We've seen too many homeowners burned by cheap coatings that peel, bubble, or wear through within months. That's why we invest in proper diamond grinding, moisture testing, and commercial-grade products on every single project.
               </p>
               <p className="text-muted-foreground">
-                Based in the Austin Metro area, we've installed hundreds of floors for homeowners, car enthusiasts, and local businesses. Every floor is a reflection of our reputation—and we take that seriously.
+                Based in the Houston Metro area, we've installed hundreds of floors for homeowners, car enthusiasts, and local businesses. Every floor is a reflection of our reputation—and we take that seriously.
               </p>
             </div>
             <div>
@@ -165,7 +165,7 @@ export default function About() {
             Ready to Work With Us?
           </h2>
           <p className="text-primary-foreground/80 mb-8 max-w-2xl mx-auto">
-            Get a free, no-obligation quote and see why Austin homeowners trust EpoxyLabs.
+            Get a free, no-obligation quote and see why Houston homeowners trust EpoxyLabs.
           </p>
           <Button variant="dark" size="xl" asChild>
             <Link to="/contact">
