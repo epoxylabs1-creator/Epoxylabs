@@ -4,7 +4,7 @@ import { Layout } from '@/components/layout/Layout';
 import { Button } from '@/components/ui/button';
 
 import metallicFloor from '@/assets/metallic-floor.jpg';
-import flakeFloor from '@/assets/flake-floor.jpg';
+import obsidianSwirl from '@/assets/obsidian-swirl.jpg';
 
 const differentiators = [
   {
@@ -107,7 +107,7 @@ export default function About() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src={flakeFloor}
+                src={obsidianSwirl}
                 alt="EpoxyLabs quality work"
                 className="rounded-xl shadow-xl"
               />
