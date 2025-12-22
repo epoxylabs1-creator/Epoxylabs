@@ -21,16 +21,16 @@ const categories = [
 ];
 
 const galleryItems = [
-  { id: 1, image: flakeFloor, category: 'flake', title: 'Full Flake — Charcoal Blend', location: 'Austin, TX' },
+  { id: 1, image: flakeFloor, category: 'flake', title: 'Full Flake — Charcoal Blend', location: ', TX' },
   { id: 2, image: metallicFloor, category: 'metallic', title: 'Metallic — Silver & Blue Swirl', location: 'Round Rock, TX' },
   { id: 3, image: afterImage, category: 'solid', title: 'Solid Gray — High Gloss', location: 'Cedar Park, TX' },
   { id: 4, image: commercialFloor, category: 'commercial', title: 'Commercial — Warehouse Floor', location: 'Georgetown, TX' },
   { id: 5, image: heroImage, category: 'metallic', title: 'Metallic — Blue Designer', location: 'Pflugerville, TX' },
   { id: 6, image: flakeFloor, category: 'flake', title: 'Full Flake — Earth Tones', location: 'Leander, TX' },
-  { id: 7, image: beforeImage, category: 'before-after', title: 'Before — Cracked Concrete', location: 'Austin, TX' },
-  { id: 8, image: afterImage, category: 'before-after', title: 'After — Flake System', location: 'Austin, TX' },
+  { id: 7, image: beforeImage, category: 'before-after', title: 'Before — Cracked Concrete', location: 'Houston, TX' },
+  { id: 8, image: afterImage, category: 'before-after', title: 'After — Flake System', location: 'Houston, TX' },
   { id: 9, image: metallicFloor, category: 'metallic', title: 'Metallic — Copper Pearl', location: 'Lakeway, TX' },
-  { id: 10, image: commercialFloor, category: 'commercial', title: 'Commercial — Auto Shop', location: 'Austin, TX' },
+  { id: 10, image: commercialFloor, category: 'commercial', title: 'Commercial — Auto Shop', location: 'Houston, TX' },
   { id: 11, image: afterImage, category: 'solid', title: 'Solid Charcoal — Satin Finish', location: 'Round Rock, TX' },
   { id: 12, image: flakeFloor, category: 'flake', title: 'Full Flake — Cool Gray', location: 'Cedar Park, TX' },
 ];
@@ -52,7 +52,7 @@ export default function Gallery() {
               Our Work <span className="text-primary">Gallery</span>
             </h1>
             <p className="text-xl text-background/70">
-              Browse our recent epoxy floor installations across the Austin Metro area. Every floor is unique.
+              Browse our recent epoxy floor installations across the Houston Metro area. Every floor is unique.
             </p>
           </div>
         </div>
