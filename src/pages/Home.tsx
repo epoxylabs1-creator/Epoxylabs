@@ -11,6 +11,8 @@ import metallicShowroomAfter from '@/assets/metallic-showroom-after.jpg';
 import metallicFloor from '@/assets/metallic-floor.jpg';
 import flakeFloor from '@/assets/flake-floor.jpg';
 import commercialFloor from '@/assets/commercial-floor.jpg';
+import afterImage from '@/assets/after-1.jpg';
+
 
 const benefits = [
   { icon: Sparkles, text: 'Showroom-Grade Finish' },
@@ -44,7 +46,7 @@ const services = [
     title: 'Solid Color',
     subtitle: 'Minimal Series',
     description: 'Clean lines, seamless finish. Modern minimalism for discerning tastes.',
-    image: metallicShowroomAfter,
+    image: afterImage,
     href: '/catalog?category=solid',
   },
   {
@@ -257,7 +259,7 @@ export default function Home() {
           <div className="max-w-5xl mx-auto">
             <BeforeAfterSlider
               beforeImage={beforeImage}
-              afterImage={metallicShowroomAfter}
+              afterImage={afterImage}
               beforeLabel="Before"
               afterLabel="Metallic Epoxy"
               caption="Metallic Epoxy Finish — custom depth, gloss, and a true showroom look."
