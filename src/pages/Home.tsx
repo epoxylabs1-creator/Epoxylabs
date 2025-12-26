@@ -112,7 +112,7 @@ const testimonials = [
   {
     name: 'Marcus T.',
     location: 'Houston, TX',
-    text: 'I have a 911 GT3 and a classic Porsche 356. The metallic floor they installed makes my garage look like a Porsche dealership. Absolutely stunning.',
+    text: 'My G-Wagon deserved something cleaner than bare concrete. The metallic finish gives the garage a high-end feel, and the way it reflects the truck looks really sharp. I’d do it again for sure.',
     rating: 5,
   },
   {
@@ -124,7 +124,7 @@ const testimonials = [
   {
     name: 'Elena R.',
     location: 'Sugar Land, TX',
-    text: "My husband's Ferrari collection deserved better than painted concrete. The metallic silver floor reflects the cars beautifully. Worth every penny.",
+    text: "Plain concrete just didn’t cut it. The metallic silver floor completely changed the space and gives it a clean, finished look. Definitely worth the upgrade.",
     rating: 5,
   },
   {
