@@ -100,7 +100,7 @@ export default function FAQ() {
               <Link to="/contact">Contact Us</Link>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <a href="tel:+15551234567">Call (555) 123-4567</a>
+              <a href="tel:+1‪8322781564‬">Call ‪(832) 278-1564‬</a>
             </Button>
           </div>
         </div>
