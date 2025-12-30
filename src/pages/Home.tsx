@@ -526,9 +526,9 @@ export default function Home() {
               </Link>
             </Button>
             <Button variant="heroOutline" size="xl" asChild>
-              <a href="tel:+15551234567">
+              <a href="tel:+1‪8322781564‬">
                 <Phone className="w-5 h-5" />
-                (555) 123-4567
+                ‪(832) 278-1564‬
               </a>
             </Button>
           </div>
