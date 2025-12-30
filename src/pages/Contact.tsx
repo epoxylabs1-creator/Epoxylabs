@@ -5,7 +5,7 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'Phone',
-    value: '(555) 123-4567',
+    value: '‪(832) 278-1564‬',
     href: 'tel:+15551234567',
     action: 'Call Now',
   },
@@ -13,7 +13,7 @@ const contactInfo = [
     icon: MessageCircle,
     title: 'Text',
     value: '(555) 123-4567',
-    href: 'sms:+15551234567',
+    href: 'sms:+1‪8322781564‬',
     action: 'Text Us',
   },
   {
