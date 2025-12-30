@@ -50,7 +50,7 @@ export function Header() {
 
           {/* Desktop CTA */}
           <div className="hidden lg:flex items-center gap-3">
-            <a href="tel:+15551234567" className="flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
+            <a href="tel:+1‪8322781564‬" className="flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
               <Phone className="w-4 h-4" />
               (555) 123-4567
             </a>
@@ -61,7 +61,7 @@ export function Header() {
 
           {/* Mobile Menu Button */}
           <div className="flex lg:hidden items-center gap-2">
-            <a href="tel:+15551234567">
+            <a href="tel:+1‪8322781564‬">
               <Button variant="outline" size="icon" className="rounded-full">
                 <Phone className="w-4 h-4" />
               </Button>
