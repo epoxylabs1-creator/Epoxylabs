@@ -12,7 +12,7 @@ const contactInfo = [
   {
     icon: MessageCircle,
     title: 'Text',
-    value: '(555) 123-4567',
+    value: '‪(832) 278-1564‬',
     href: 'sms:+1‪8322781564‬',
     action: 'Text Us',
   },
