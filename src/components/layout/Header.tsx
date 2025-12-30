@@ -52,7 +52,7 @@ export function Header() {
           <div className="hidden lg:flex items-center gap-3">
             <a href="tel:+1‪8322781564‬" className="flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
               <Phone className="w-4 h-4" />
-              (555) 123-4567
+              ‪(832) 278-1564‬
             </a>
             <Button asChild>
               <Link to="/contact">Get a Free Quote</Link>
