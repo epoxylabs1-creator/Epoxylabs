@@ -6,7 +6,7 @@ const contactInfo = [
     icon: Phone,
     title: 'Phone',
     value: '‪(832) 278-1564‬',
-    href: 'tel:+15551234567',
+    href: 'tel:+1‪8322781564‬',
     action: 'Call Now',
   },
   {
