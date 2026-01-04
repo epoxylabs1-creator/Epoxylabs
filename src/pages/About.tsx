@@ -143,7 +143,7 @@ export default function About() {
               <div className="text-background/70">Floors Installed</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">10+</div>
+              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">5+</div>
               <div className="text-background/70">Years Experience</div>
             </div>
             <div>
